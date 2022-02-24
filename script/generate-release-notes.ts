@@ -46,7 +46,7 @@ export default class GenerateReleaseNotes {
    */
   private githubToken: string
 
-  private owner = 'desktop'
+  private owner = 'jayczech23'
   private repo = 'dugite-native'
 
   constructor() {
